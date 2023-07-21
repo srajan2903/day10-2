@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\MyMathLibrary.dll
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\MyMathLibrary.pdb
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.dll
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.pdb
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.CopyComplete
